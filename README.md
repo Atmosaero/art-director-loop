@@ -11,15 +11,32 @@ The repository is called **Art Director Loop**; the installed skill and invocati
 ## Example style
 
 <p align="center">
-  <img src="assets/demo.png" width="360" alt="Portrait match-3 combat screen with an anime rabbit-eared character in a grassy landscape, colorful sword, shield, heart, lightning and purple book tiles, health bars and a bottom HUD.">
-</p>
-<p align="center">
-  <img src="assets/all-items.png" width="360" alt="Portrait match-3 combat screen with an anime rabbit-eared character in a grassy landscape, colorful sword, shield, heart, lightning and purple book tiles, health bars and a bottom HUD.">
-</p>
-<p align="center">
-  <img src="assets/native-sheet.png" width="360" alt="Portrait match-3 combat screen with an anime rabbit-eared character in a grassy landscape, colorful sword, shield, heart, lightning and purple book tiles, health bars and a bottom HUD.">
+  <img
+    src="assets/demo.png"
+    width="420"
+    alt="Complete portrait game screen showing the visual style across character art, environment, gameplay tiles, and UI."
+  >
 </p>
 
+<p align="center">
+  <img
+    src="assets/all-items.png"
+    width="47%"
+    alt="Item collection demonstrating consistent shapes, outlines, colors, and rendering rules."
+  >
+  &nbsp;
+  <img
+    src="assets/native-sheet.png"
+    width="47%"
+    alt="Native-size validation sheet showing game assets at their intended display sizes."
+  >
+</p>
+
+<p align="center">
+  <sub>
+    Complete game screen · Item family · Native-size readability test
+  </sub>
+</p>
 
 A portrait match-3 combat screen illustrates the scope: character art, an environment, gameplay pieces, and interface elements appear together. The workflow evaluates their construction, hierarchy, and readability as one system. This screenshot is a style example; a validated result also includes the benchmark, new-content evidence, and verdicts described below.
 
